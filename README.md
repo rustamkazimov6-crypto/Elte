@@ -1,7 +1,7 @@
 # Elte(https://github.com/user-attachments/files/28033433/README.md)
 # Hi, I'm Rustam 👋
 
-Computer Science student at **Eötvös Loránd University (ELTE)**, Budapest — 6th semester.
+Computer Science student at **Eötvös Loránd University (ELTE)**, Budapest - 6th semester.
 
 I enjoy building things from scratch: games, tools, and anything that involves solving a real problem with code.
 
@@ -36,3 +36,5 @@ I enjoy building things from scratch: games, tools, and anything that involves s
 ---
 
 *Always open to internship opportunities and interesting projects.*
+
+=====================================================================
