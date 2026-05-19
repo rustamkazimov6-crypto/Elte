@@ -11,7 +11,7 @@ I enjoy building things from scratch: games, tools, and anything that involves s
 ## 📌 Projects
 | Project | Description | Tech |
 |---|---|---|
-| [Transport Empire](#) | Turn-based transport strategy game with pathfinding and economy engine | Java, JavaFX |
+| [Transport Empire](https://github.com/rustamkazimov6-crypto/transport-empire) | Turn-based transport strategy game with pathfinding and economy engine | Java, JavaFX |
 | [Maze Highscore Game](#) | Procedurally generated maze game with SQL leaderboard | Java, Swing, SQL |
 | [TCP Guessing Game](#) | Client-server number guessing game using binary search over TCP sockets | Python |
 | [OOP Assignments](#) | Alchemist inventory system & restaurant recipe manager | Java |
