@@ -1,5 +1,5 @@
-# Elte(https://github.com/user-attachments/files/28033433/README.md)
-# Hi, I'm Rustam 👋
+# Elte
+# Hi, I'm Rustam
 
 Computer Science student at **Eötvös Loránd University (ELTE)**, Budapest - 6th semester.
 
