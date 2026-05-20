@@ -1,4 +1,4 @@
-# Hi, I'm Rustam
+# Hi, I'm Rustam 
 
 Computer Science student at **Eötvös Loránd University (ELTE)**, Budapest - 6th semester.
 
@@ -14,7 +14,7 @@ I enjoy building things from scratch: games, tools, and anything that involves s
 
 ---
 
-## 📌 Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -24,10 +24,11 @@ I enjoy building things from scratch: games, tools, and anything that involves s
 | [Network File Transfer](https://github.com/rustamkazimov6-crypto/netcopy-file-transfer) | 3-component file transfer system with MD5 checksum verification | Python |
 | [Rubik Sliding Board](https://github.com/rustamkazimov6-crypto/rubik-board-game) | N x N sliding puzzle with circular row/column shifts | Java, Swing |
 | [Easter Bunny Competition](https://github.com/rustamkazimov6-crypto/easter-bunny-competition) | Unix process competition simulator using fork, pipes, and signals | C |
+| [Snake Game](https://github.com/rustamkazimov6-crypto/Snake-game) | Classic Snake console game with collision detection and score tracking | C# |
 
 ---
 
-## About Me
+##  About Me
 
 -  Studying CS at ELTE Budapest since 2023
 -  Candidate Master of Sport in Water Polo (KMS) - Azerbaijan national level
